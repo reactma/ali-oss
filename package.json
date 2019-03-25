@@ -1,6 +1,6 @@
 {
-  "name": "ali-oss",
-  "version": "6.1.0",
+  "name": "ali-oss-reactma",
+  "version": "6.1.1",
   "description": "aliyun oss(object storage service) node client",
   "main": "lib/client.js",
   "files": [
@@ -106,6 +106,7 @@
     "co-defer": "^1.0.0",
     "copy-to": "^2.0.1",
     "dateformat": "^2.0.0",
+    "dayjs": "^1.8.11",
     "debug": "^2.2.0",
     "destroy": "^1.0.4",
     "end-or-error": "^1.0.1",
